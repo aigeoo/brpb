@@ -11,6 +11,6 @@ BRPB (Buc Rating Professors Bot) is a Python Selenium-based tool that automates 
 5. Type `git clone https://github.com/AIGEOO/brpb.git`.
 6. Type `cd brpb`.
 7. Type `pip install -r requirements.txt`.
-8. Go to the `brpb` folder on your Desktop and edit the `.env` file by changing `STUDENT_USERNAME=` and `STUDENT_PASSWORD=` to your own credentials.
-9. In the Command Prompt, type `python main.py`.
+8. Go to the `brpb` folder on your Desktop and rename the `.env.example` to be `.env` then edit the file by changing `STUDENT_USERNAME=` and `STUDENT_PASSWORD=` to your own credentials.
+9. Type `python main.py`.
 10. Now see the magic at work!
